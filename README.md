@@ -1,8 +1,11 @@
-# 🐘 PHP 30 Days Challenge
+# PHP 30 Days Challenge 🚀
 
-Welcome to the **PHP 30 Days Challenge**!  
-This repository contains daily practice tasks and examples to master **PHP fundamentals** in a structured 30-day plan.  
-By the end of this challenge, you’ll be able to build dynamic and secure PHP applications from scratch.
+[![PHP](https://img.shields.io/badge/PHP-8.1+-blue?style=for-the-badge&logo=php)](https://www.php.net/)
+![Days Completed](https://img.shields.io/badge/Days_Completed-1/30-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
+
+A 30-day journey to master **PHP** (and prepare for Laravel) by building small, focused exercises every day.  
+Perfect for beginners who want to strengthen PHP fundamentals with **hands-on coding**.
 
 ---
 
