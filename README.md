@@ -1,7 +1,7 @@
 # PHP 30 Days Challenge 🚀
 
 [![PHP](https://img.shields.io/badge/PHP-8.1+-blue?style=for-the-badge&logo=php)](https://www.php.net/)
-![Days Completed](https://img.shields.io/badge/Days_Completed-7/30-green?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days_Completed-8/30-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
 
 A 30-day journey to master **PHP** (and prepare for Laravel) by building small, focused exercises every day.  
